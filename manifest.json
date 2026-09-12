@@ -1,0 +1,27 @@
+{
+  "name": "نظام الحضور والانصراف - مستشفى الحرم",
+  "short_name": "التحضير",
+  "description": "نظام الحضور والانصراف الذكي - مستشفى الحرم",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0b0c10",
+  "theme_color": "#0053b3",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "https://i.postimg.cc/R0qk6xCj/thdyry.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://i.postimg.cc/R0qk6xCj/thdyry.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
